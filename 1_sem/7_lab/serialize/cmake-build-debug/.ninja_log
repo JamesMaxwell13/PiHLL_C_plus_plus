@@ -1,0 +1,20 @@
+# ninja log v5
+1	271	7251709773652948	build.ninja	d1f5609ae79b20f8
+3	1895	7249103850961231	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+1	4520	7249103877271832	CMakeFiles/serialize.dir/template_list.cpp.obj	6331ee0e85890a8e
+7	2675	7249104200496966	CMakeFiles/serialize.dir/MyString.cpp.obj	faf413137a5a16ae
+2676	2989	7249104203612411	serialize.exe	b6e83e79a6987b50
+15	3948	7255074776931979	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+3949	4688	7255074784412025	serialize.exe	b6e83e79a6987b50
+10	3805	7255075984042521	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+3807	4758	7255075993167888	serialize.exe	b6e83e79a6987b50
+9	2819	7255088481303942	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+2820	3357	7255088486604003	serialize.exe	b6e83e79a6987b50
+10	4085	7255089355093914	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+4085	4601	7255089360314039	serialize.exe	b6e83e79a6987b50
+6	1543	7255102237119870	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+1544	1799	7255102239589586	serialize.exe	b6e83e79a6987b50
+7	1610	7255469507888092	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+1611	1936	7255469511100206	serialize.exe	b6e83e79a6987b50
+8	1127	7255489245097086	CMakeFiles/serialize.dir/serialization.cpp.obj	dc535556c96a8cd0
+1128	1336	7255489247144834	serialize.exe	b6e83e79a6987b50

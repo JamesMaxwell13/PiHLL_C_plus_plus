@@ -1,0 +1,3 @@
+D:/BSUIR/PiHLL/1_sem/2_lab/cmake-build-debug/CMakeFiles/2_lab.dir
+D:/BSUIR/PiHLL/1_sem/2_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BSUIR/PiHLL/1_sem/2_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
